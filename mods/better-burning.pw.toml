@@ -1,0 +1,13 @@
+name = "Better Burning"
+filename = "BetterBurning-1.7.10-0.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a46bf1e96a186dd3456b2088d4403e1618f0040a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2919011
+project-id = 353434

@@ -1,0 +1,13 @@
+name = "Animus"
+filename = "NOVA-2016-07-21-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2f60e6056d0e71e2e2ebfe6f6930e0b2d27956a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2317549
+project-id = 229664

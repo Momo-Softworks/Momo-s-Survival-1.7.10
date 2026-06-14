@@ -1,0 +1,13 @@
+name = "Harder Wildlife"
+filename = "1.7.10-HarderWildlife-15.26.1d.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "487cc4b074f23cb462af0322cd91339990bd7e63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2394273
+project-id = 232257

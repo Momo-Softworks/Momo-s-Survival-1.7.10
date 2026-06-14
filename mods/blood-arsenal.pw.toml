@@ -1,0 +1,13 @@
+name = "Blood Arsenal"
+filename = "BloodArsenal-1.7.10-1.2-5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e2c305194fca5ca1f99790bfd24cd0319f4bb00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2288783
+project-id = 228823

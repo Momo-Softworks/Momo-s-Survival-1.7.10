@@ -1,0 +1,13 @@
+name = "BiblioCraft: BiblioWoods Biomes O'Plenty Edition | Ukrainian"
+filename = "bibliocraftbiomesoplenty_ua.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6084705f91f3c37f2767abd651841ee2c23f298f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7138363
+project-id = 1370457

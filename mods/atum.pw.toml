@@ -1,0 +1,13 @@
+name = "Atum 2: Return to the Sands"
+filename = "Atum-1.7.10-0.6.77.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fc625e0d6658449082d7a54ae1cc46272c2bedb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2256356
+project-id = 59621

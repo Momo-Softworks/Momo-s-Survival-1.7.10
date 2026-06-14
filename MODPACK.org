@@ -1,0 +1,208 @@
+#+TITLE: Momo's Survival 1.7.10 — Modpack Reference
+#+AUTHOR: nwilley
+#+DATE: 2026-06-04
+#+OPTIONS: toc:2 num:nil
+
+* Pack Description
+
+Momo's Survival is a stable, well-tested 1.7.10 base pack designed to be extended. It does three things: modernizes the engine (rendering overhaul, expanded ID space, fixed packet limits, patched crashes), backports a curated set of modern Minecraft content (Nether biomes, campfires, Caves & Cliffs world generation, Et Futurum's block and mob catalog), and layers in quality-of-life improvements that make 1.7.10 feel current.
+
+The pack deliberately keeps its content footprint modest so that downstream packs can add progression systems, magic, tech, or dimension mods without fighting a crowded mod list. Infrastructure is solid: ID limits are near-unlimited, the rendering pipeline is OpenGL core-profile, and known compatibility landmines have been defused. Build on this; don't play it as a destination.
+
+* Mods
+
+** Content & World Generation
+
+*** SkidGen
+*Category:* World Gen
+*File:* =SkidGen-1.0.0.jar=
+
+Backports the Caves & Cliffs (1.18) world generation to 1.7.10 using modern noise cave algorithms (double-Perlin, octave simplex). Adds a "Caves & Cliffs" world type with the characteristic large noise caves, aquifer systems, and dramatic underground terrain distinct from vanilla 1.7.10's limited cave gen.
+
+*** Netherlicious
+*Category:* World Gen / Nether
+*File:* =netherlicious-3.2.8.jar=
+
+Expands the Nether with original biomes (Foxfire Swamp, Abyssal Shadowland) alongside backported 1.16 biomes (Warped Forest, Crimson Forest, Basalt Deltas, Soul Sand Valley). Introduces new creatures, blocks with unique mechanics, Nether farming opportunities, and configurable world generation features like increased Nether height and ravines.
+
+*** Et Futurum Requiem
+*Category:* Content Backport
+*File:* =etfuturum-2.6.2.jar=
+
+Backports a broad sweep of Minecraft features from versions 1.8 through 1.20+ — new blocks (concrete, glazed terracotta, scaffolding, barrels, copper), mobs (phantoms, drowned, axolotls, foxes), and mechanics (composters, blast furnaces, smokers, cauldron potions). Adds several years of Mojang updates as a unified content layer.
+
+*** Campfire Backport
+*Category:* Content Backport
+*File:* =campfirebackport-1.7.10-1.11.3.jar=
+
+Adds campfires and soul campfires from Minecraft 1.14. Campfires cook food slowly, emit light and smoke, and function as signal fires when a hay bale is placed beneath them. Full NEI integration for recipes included.
+
+*** Hardcore Ender Expansion
+*Category:* Content / End Dimension
+*File:* =HardcoreEnderExpansion-1.12.22-GTNH.jar=
+
+Substantially expands the End dimension with new terrain, structures, biomes, mobs, and challenges. Adds a more involved post-dragon progression and unique End-exclusive resources, making the dimension a worthwhile destination.
+
+*** Not Enough Pets
+*Category:* Mobs / Tameable Animals
+*File:* =NotEnoughPets-1.7.10-2.4.1.jar=
+
+Adds new breeds and varieties for cats, dogs, and parrots. Ocelots can be tamed as cats, village strays spawn as various dog breeds, and parrots are backported from 1.12. Includes dyeable collars for tamed cats.
+
+*** Village Names
+*Category:* World Gen / Exploration
+*File:* =VillageNames-1.7.10-4.4.13.jar=
+
+Assigns procedurally generated names to villages, villagers, mineshafts, strongholds, and Nether fortresses. Also generates custom village buildings from the Village & Pillage update with configurable biome, building type, and material options.
+
+** Gameplay & Mechanics
+
+*** Backhand
+*Category:* Mechanics
+*File:* =backhand-1.8.10.jar=
+
+Backports the offhand slot to 1.7.10, allowing players to hold a second item in their left hand. Supports using arrows from the offhand, attacking with both hands, and placing or breaking blocks with the offhand item when the main hand is idle.
+
+*** Spice of Life: Carrot Edition
+*Category:* Food / Progression
+*File:* =SpiceOfLife-2.2.9-carrot.jar=
+
+Encourages dietary variety by expanding the player's max health as they eat a wider range of different foods. Repeatedly eating the same food provides diminishing returns, incentivizing use of the full food system rather than a single farm.
+
+*** AppleCore
+*Category:* Food / API
+*File:* =AppleCore-3.3.11.jar=
+
+Extends the food and hunger system with additional API hooks and a HUD element showing food exhaustion and saturation values in real time. Provides the integration layer that Spice of Life and other food mods depend on.
+
+*** Storage Drawers
+*Category:* Storage
+*File:* =StorageDrawers-2.2.25-GTNH.jar=
+
+Adds wall-mountable storage drawers that display their contents visually in the world. Drawers hold large quantities of a single item type and can be upgraded with capacity and void upgrades. The GTNH fork includes stability and performance fixes. Companion packs add compatibility icons for Biomes O' Plenty, Forestry, Erebus, and Natura.
+
+** Atmosphere & Aesthetics
+
+*** Darkerer
+*Category:* Atmosphere / Lighting
+*File:* =darkerer-1.1.0.jar=
+
+Removes the minimum ambient light level, making nights and unlit caves genuinely pitch black — silhouettes only without a light source. Supports multiple configurable darkness modes and applies across the Overworld, Nether, End, and modded dimensions by default.
+
+*** Ears (+ Snouts, Tails, Horns, Wings, and More)
+*Category:* Cosmetics / Character Customization
+*File:* =ears-forge-1.7-1.4.7.jar=
+
+Allows players to add ears, snouts, muzzles, tails, horns, fins, and wings to their character by encoding customization data as pixels within their existing skin texture. Requires no external server — the skin file itself carries all configuration. This is the standalone Ears mod; FoamFix's bundled skin renderer is disabled (=mc18SkinSupport=false= in =config/foamfix.cfg=) due to incompatibility with Angelica's OpenGL core profile context.
+
+*** Antique Atlas
+*Category:* Mapping
+*File:* =antiqueatlas-1.7.10-4.4.4.jar=
+
+Replaces the standard map with a hand-drawn, parchment-style atlas that auto-fills as you explore. Displays biome-specific textures, villages, structures, and custom markers. Feels like a physical object rather than a minimap overlay.
+
+*** Antique Atlas Overlay
+*Category:* Mapping / HUD
+*File:* =AntiqueAtlasOverlay-1.7.10-1.2.jar=
+
+Renders the Antique Atlas as a minimap in the HUD corner while the atlas is in the player's inventory, preserving the atlas aesthetic in the overlay.
+
+*** FloatingItems
+*Category:* Atmosphere / Polish
+*File:* =FloatingItems-1.7.10-0.1.0.jar=
+
+Backports items floating in water from 1.13. Dropped items bob on the water surface rather than sinking.
+
+** Interface & Quality of Life
+
+*** NotEnoughItems (GTNH)
+*Category:* UI / Recipe Viewer
+*File:* =NotEnoughItems-2.8.100-GTNH.jar=
+
+The standard NEI recipe viewer maintained by the GTNH team. Shows crafting and smelting recipes, allows searching all items, and integrates with mod-specific recipe handlers (campfire, smoker, blast furnace, composter, etc.).
+
+*** Mouse Tweaks
+*Category:* UI / Inventory
+*File:* =MouseTweaks-2.4.4-mc1.7.10.jar= (client-only)
+
+Enhances inventory mouse controls with drag-to-craft (LMB/RMB drag), scroll-wheel item moving, and improved item pickup behavior.
+
+*** ModernControlling
+*Category:* UI / Keybindings
+*File:* =ModernControlling-Forge-1.7.10-1.0.0.jar=
+
+Improves the Controls screen to highlight keybinding conflicts visually and allows searching bindings by name.
+
+*** Modern KeyBinding
+*Category:* UI / Keybindings
+*File:* =ModernKeyBinding-Forge-1.7.10-2.1.0-mixinless.jar=
+
+Overhauls the underlying keybinding system to support more key combinations and resolve conflicts the vanilla system handles poorly. Works alongside ModernControlling.
+
+** Performance & Rendering
+
+*** Angelica
+*Category:* Performance / Rendering
+*File:* =angelica-2.1.29.jar=
+
+A complete overhaul of Minecraft 1.7.10's rendering pipeline to OpenGL 3.3+ core profile. Introduces chunk-based rendering, Iris-compatible shaderpack support, and dramatically improved frame rates. Bundles MCPatcherForge and NotFine. The single largest performance contributor in the pack.
+
+*** Entity Culling
+*Category:* Performance
+*File:* =entityculling-1.6.4-mc1.7.10.jar=
+
+Skips rendering entities not visible from the player's perspective (occluded behind solid blocks). Reduces render thread load substantially in entity-dense areas.
+
+*** Entity Render Distance Extender
+*Category:* Performance / Rendering
+*File:* =EntityRenderDistanceExtender-1.0c.jar=
+
+Extends two hardcoded vanilla limits: the distance at which entities render and the distance at which they are tracked. Configurable; allows seeing entities at greater distances than vanilla permits without affecting mob despawn mechanics.
+
+*** FoamFix
+*Category:* Performance / Bug Fixes
+*File:* =FoamFix-1.7.10-universal-1.0.4.jar=
+
+Applies memory and performance optimizations including the tessellator alpha-pass crash fix, ghost chunkloading fixes for fluids and grass, and rendering memory leak patches. Note: =mc18SkinSupport= is disabled in =config/foamfix.cfg= because FoamFix's bundled Ears renderer uses legacy =glPushMatrix= calls incompatible with Angelica's core OpenGL context. The standalone Ears mod handles skin customization instead.
+
+*** Hodgepodge
+*Category:* Bug Fixes / Performance
+*File:* =hodgepodge-2.7.158.jar=
+
+A large collection of 1.7.10 bug fixes and micro-optimizations maintained by the GTNH team. Addresses memory leaks in third-party mod renderers, fixes duplicate sound events, improves fullscreen behavior, and adds string pooling for world client allocations.
+
+** Technical / Infrastructure
+
+These mods provide no direct gameplay content but are required for the pack to function correctly.
+
+*** UniMixins
+Bundles all common Mixin framework components (SpongeMixins, GTNHMixins, MixinBooterLegacy, MixinExtras, Mixingasm) into a single jar, preventing version conflicts between mods that previously each shipped their own copy. The =gtnhmixins= standalone jar was removed from the pack because it is already included here.
+
+*** GTNHLib
+Library mod required by several GTNH-maintained mods. Provides shared utilities, team/player data hooks, and runtime dependency management (fastutil, JOML, Brigadier).
+
+*** FalsePatternLib
+*File:* =falsepatternlib-mc1.7.10-1.12.2.jar=
+
+The runtime library that GTNHLib and other FalsePattern/GTNH mods are built on. Handles dependency downloading, certificate patching (LetsEncryptHelper), and classloader utilities. Required by GTNHLib.
+
+*** CodeChickenCore
+Required dependency for NotEnoughItems. Provides shared utilities for the CodeChicken mod family.
+
+*** ChunkAPI
+*File:* =chunkapi-mc1.7.10-0.8.3.jar=
+
+API library that allows mods to attach custom data to chunks cleanly — handling serialization, networking, and persistence without patching vanilla classes. Required as a dependency by other mods in the pack.
+
+*** EndlessIDs
+*File:* =endlessids-mc1.7.10-1.7.4.jar=
+
+The successor to NotEnoughIDs, with greater focus on compatibility and stability. Raises block ID limits to 16,777,216 (versus NotEnoughIDs's 32,000) and extends IDs across multiple game systems. Backward compatible with worlds created under NotEnoughIDs.
+
+*** Bigger Packets Please
+*File:* =biggerpacketsplz-upto1.7.10-1.2.jar=
+
+Raises the maximum compressed network packet size limit, preventing the "Badly compressed packet — size of X is larger than protocol maximum of 2097152" disconnect that occurs when servers send complex world or chunk data.
+
+*** Biome Decoration Fix
+Fixes a crash that occurs when two mods attempt to decorate the same chunk simultaneously, preventing rare but reproducible world-generation hangs and crashes.

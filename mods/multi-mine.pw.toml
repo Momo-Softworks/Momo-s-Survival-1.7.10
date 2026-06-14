@@ -1,0 +1,13 @@
+name = "Multi Mine"
+filename = "MultiMine-1.7.10.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3f0c92175819d1936fdccc9f5c24926c7661eeb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2227654
+project-id = 227887

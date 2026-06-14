@@ -1,0 +1,14 @@
+name = "Momo's Survival 1.7.10"
+author = "chubbymomo"
+version = "1.0.0"
+description = "A custom 1.7.10 survival modpack."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dfd326a153d18339306881473408c8292d3a26458c2727fd69a8777aa1d584d2"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

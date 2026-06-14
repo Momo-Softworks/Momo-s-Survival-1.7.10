@@ -1,0 +1,13 @@
+name = "Antique Atlas Overlay - Minimap"
+filename = "AntiqueAtlasOverlay-1.7.10-1.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "79e11c64ccf9f0a15ba596339941580e638891c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2299831
+project-id = 244959

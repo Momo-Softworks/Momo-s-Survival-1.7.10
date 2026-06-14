@@ -1,0 +1,13 @@
+name = "Nef's Medieval decoration"
+filename = "Nef'sDecomod.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "dcc29b6df7db7048eee7d90c1d4a0405976f4d77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3196606
+project-id = 444384

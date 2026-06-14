@@ -1,0 +1,16 @@
+# Files in this directory that are NOT part of the distributable pack.
+# packwiz refresh uses this to decide what goes into index.toml.
+
+# Local Claude Code state / skills (machine-specific, not pack content)
+.claude/
+
+# MultiMC/PolyMC instance scaffolding
+instance/
+
+# Built export artifact
+*.zip
+
+# The installer bootstrap is a tool, not pack content. It stays committed to
+# the git repo so the Guix service can fetch it by direct raw URL, but it
+# should not be a packwiz-managed file.
+packwiz-installer-bootstrap.jar

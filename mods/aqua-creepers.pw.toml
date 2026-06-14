@@ -1,0 +1,13 @@
+name = "Aqua Creepers!"
+filename = "AquaCreepers-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ae7dec2f0dae1b306a8eb86c7286af5550d236f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2308692
+project-id = 228414

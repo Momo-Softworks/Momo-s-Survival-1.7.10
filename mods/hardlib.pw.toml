@@ -1,0 +1,13 @@
+name = "HardLib"
+filename = "1.7.10-HardLib-15.26.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad1e52b237e99f436dc209b9087e6b9960b5708b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2311665
+project-id = 232071

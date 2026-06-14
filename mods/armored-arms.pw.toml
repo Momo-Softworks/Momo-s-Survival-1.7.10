@@ -1,0 +1,13 @@
+name = "Armored Arms"
+filename = "ArmoredArms-v1.3.8-1.7.10-release.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1fbb7382f404a5991399505e09375c54a6ba3ec4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8216135
+project-id = 1331377

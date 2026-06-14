@@ -1,0 +1,13 @@
+name = "Thaumcraft Mob Aspects"
+filename = "ThaumcraftMobAspects-1.7.2-2A.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "552e5f74856fe897bdec1c3df90876a0a2253fbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2204696
+project-id = 221389

@@ -1,0 +1,13 @@
+name = "Ordinary Coins"
+filename = "ordinarycoins-1.7.10-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6cfb3d1bc7ad1fdf2bd3416ab6a3c60aa2f9af9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2821835
+project-id = 281246

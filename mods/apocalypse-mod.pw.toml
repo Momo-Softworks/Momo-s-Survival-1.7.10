@@ -1,0 +1,13 @@
+name = "Apocalypse Mod"
+filename = "Apocalypse-1.7.10-0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09646fc23fe8a2ddbcfe0e8d6232a0db59d62ae8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2267218
+project-id = 229199

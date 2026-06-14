@@ -1,0 +1,13 @@
+name = "Chest Transporter"
+filename = "ChestTransporter-1.7.10-2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2692f11542d24d08ecc4f2406c8163e8b6d9af6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2342400
+project-id = 78778

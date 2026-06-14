@@ -1,0 +1,13 @@
+name = "Vivecraft Forge Extensions"
+filename = "VivecraftForgeExtensions-1.7.10-0.2.3.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be67fb6b80d136a73c8e2ddf101fddfbed57d804"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2730569
+project-id = 325360

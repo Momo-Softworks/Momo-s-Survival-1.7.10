@@ -1,0 +1,13 @@
+name = "MattDahEpic Core (MDECore)"
+filename = "mdecore-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d978c21611d9a601733b49d2713ead0562ede36c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2234314
+project-id = 229595

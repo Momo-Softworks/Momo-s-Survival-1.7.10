@@ -1,0 +1,13 @@
+name = "Good Night's Sleep"
+filename = "good-nights-sleep-1.7.10-v0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97611a97dc344f4064487a6550e0ea64a0597413"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2759805
+project-id = 61461

@@ -1,0 +1,13 @@
+name = "Edit Mob Drops"
+filename = "editmobdrops-1.7.10-1.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93a0e995a8c463b812a34d198f77883a4f7e4543"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4458014
+project-id = 348932

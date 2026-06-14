@@ -1,0 +1,13 @@
+name = "Platforms"
+filename = "platforms-1.7.10-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8be327d31567dedb437da97a505733f5e9f99a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2309925
+project-id = 244786

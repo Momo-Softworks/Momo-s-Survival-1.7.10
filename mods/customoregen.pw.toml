@@ -1,0 +1,13 @@
+name = "CustomOreGen"
+filename = "CustomOreGen-1.7.10-1.2.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7eb21d49a3291f3f55ced6937e5cf3778a167bda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2335337
+project-id = 237130

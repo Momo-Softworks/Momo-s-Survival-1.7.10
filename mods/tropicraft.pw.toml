@@ -1,0 +1,13 @@
+name = "Tropicraft"
+filename = "tropicraftv6_0_5 for MC v1_7_10.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59971de8fb2838d5a89a00a7f044becd188ac99f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2353906
+project-id = 254794
