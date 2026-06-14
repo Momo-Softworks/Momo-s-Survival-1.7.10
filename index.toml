@@ -77,6 +77,10 @@ file = "config/ThaumicTinkerer.cfg"
 hash = "ebc909a519b5ce738712ccc150fbc7b8a058627b341384a30f6e92d8e05ae89f"
 
 [[files]]
+file = "config/TooMuchTime.cfg"
+hash = "c63eed0c4c1b08d8eb32cff78acf69b22422ef8b2fe52659e5afcdf19167573e"
+
+[[files]]
 file = "config/Treecapitator.cfg"
 hash = "0f20103326e6dbba9a3ba33cb01d46168be2b2303c6316df8b27a84b80fd92d7"
 
@@ -972,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-mechworks.pw.toml"
 hash = "d5851efec1ffd8b3a51d23d820731b7517d3913984c35009f260cd1d4185b9bf"
+metafile = true
+
+[[files]]
+file = "mods/toomuchtime.pw.toml"
+hash = "0df7996191ba165250ec40a680ee51249f1b45308a9d222f9ad7542dd0d93b36"
 metafile = true
 
 [[files]]
