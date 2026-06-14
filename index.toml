@@ -13,26 +13,6 @@ file = "config/AntiqueAtlasOverlay.cfg"
 hash = "b23be2891de8684d4ff6419798de07f24775a7a0cf7d9e3908a384b656c82ced"
 
 [[files]]
-file = "config/Apocalypse/Apocalypse.cfg"
-hash = "cfcb91aca8553852b94d19d0bf87b4687d85d15b99cd1f5e550aae19ad241a02"
-
-[[files]]
-file = "config/Apocalypse/Bosses.cfg"
-hash = "fe82454bab70e92b2d2967c2f2668deaa24582bec567f60604f0d0a36edf1b6d"
-
-[[files]]
-file = "config/Apocalypse/Equipment.cfg"
-hash = "ac9fb9b6bb55ebf62b4b50ccc464257f7dfb01131eb50c7f8592077119940778"
-
-[[files]]
-file = "config/Apocalypse/FullMoons.cfg"
-hash = "14ba07c05fdcf090ea144b27e7af7ed7c7984171105a4b5508c4b622b48d257e"
-
-[[files]]
-file = "config/Apocalypse/PotionsAndAttributes.cfg"
-hash = "dad92bf4576effe4d459fc14c90ce352eca22f30101dbe80e9575594585bec77"
-
-[[files]]
 file = "config/BiblioCraft.cfg"
 hash = "f6c1cda120d77da950d3ef1c649ded2ef282d477a214154457720be299313660"
 
@@ -293,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/antique-atlas.pw.toml"
 hash = "8030b319354ce6699de8842b71d7c2b508e05104117a842c4ddedda952f1800e"
-metafile = true
-
-[[files]]
-file = "mods/apocalypse-mod.pw.toml"
-hash = "9d91ab319a9946a87409b0c0144b1e27e7a57fef34a5aecb616e3e2b3c63d8b9"
 metafile = true
 
 [[files]]
