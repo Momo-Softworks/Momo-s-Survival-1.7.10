@@ -26,7 +26,7 @@ hash = "ac9fb9b6bb55ebf62b4b50ccc464257f7dfb01131eb50c7f8592077119940778"
 
 [[files]]
 file = "config/Apocalypse/FullMoons.cfg"
-hash = "cad1913af6cc586a8f450526ee418a862e9049ed8a35947915d0b32b06f5abdc"
+hash = "14ba07c05fdcf090ea144b27e7af7ed7c7984171105a4b5508c4b622b48d257e"
 
 [[files]]
 file = "config/Apocalypse/PotionsAndAttributes.cfg"
@@ -69,6 +69,10 @@ file = "config/RunicDungeons/RunicDungeons.cfg"
 hash = "044c6bf6a1775b249fcb08b53e88ddbff56a45571cb456d17e552c5b12c6ff0c"
 
 [[files]]
+file = "config/SpecialAI.cfg"
+hash = "44e7c59efed47425418208c0e39a1b3ad54d95b5d0df27936dec8e05aa90fb8f"
+
+[[files]]
 file = "config/SpiceOfLife.cfg"
 hash = "af2c6c2f4a472d29ae990a0aab3541b1734d6a8aa18a05f6f71ce0d3a6e07802"
 
@@ -99,10 +103,6 @@ hash = "0f20103326e6dbba9a3ba33cb01d46168be2b2303c6316df8b27a84b80fd92d7"
 [[files]]
 file = "config/TwilightForest.cfg"
 hash = "58f2eeaa41fd96f41e0dbc8701eb93c4de02dcd9b476d51745ca519775420c40"
-
-[[files]]
-file = "config/abyssalcraft.cfg"
-hash = "71625f314f63f3f3fedf6e22ffac5c4fc66ed8700b26e2a3788a3bcbe0661d89"
 
 [[files]]
 file = "config/aether/AetherI.cfg"
@@ -243,16 +243,6 @@ hash = "4941f8490415380290690a6665de7959f0c787c2eb23b3da836c4b70dd11015e"
 [[files]]
 file = "mods/a-block-of-charcoal.pw.toml"
 hash = "5df43c5bffde28a2c3b9ac340605344163cd10129c349c437e3f39f39d4493b7"
-metafile = true
-
-[[files]]
-file = "mods/abyssalcraft-integration.pw.toml"
-hash = "3cb458c85ec0f2a9147c94a3f2d9e815a97bb8c693aa0598b5d5fb89caf07c36"
-metafile = true
-
-[[files]]
-file = "mods/abyssalcraft.pw.toml"
-hash = "bdd3bec13f6133a5997b6a9be7ea22cef24b719f284f73ec70796b154f1d5061"
 metafile = true
 
 [[files]]
@@ -605,11 +595,6 @@ hash = "100047ae847bc5ded978517d83f86b7d90166622eecc4b9721582145cd51d218"
 metafile = true
 
 [[files]]
-file = "mods/forge-backpacks.pw.toml"
-hash = "12159b39a053a12e5781af4ac1f4967b26b0107c9a006f0a553a00bf6f70fd18"
-metafile = true
-
-[[files]]
 file = "mods/forgotten-relics-unofficial.pw.toml"
 hash = "180043516eea79642f21f42342a0fcd54597e4204615bc46e6b1d84226d6a76a"
 metafile = true
@@ -637,11 +622,6 @@ metafile = true
 [[files]]
 file = "mods/good-nights-sleep.pw.toml"
 hash = "044f33b35fd8fc8eb29b5aec5e60f2af7b29c161fa34952538adf17266d81ec8"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "d451fd8fe5310103844d248fe6826636bb1ac4cbcd62b2bb2f49c18e5f02489b"
 metafile = true
 
 [[files]]
@@ -772,11 +752,6 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "716baf51b17154af36104e02360778dd6a1335586f1fcc1300ceeb2353cb8b94"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfish-furniture-mod.pw.toml"
-hash = "2bf65d3d2f8d6d1e09145e3c6b08a56769f7975a667581fdcd28e72ffb7b65e9"
 metafile = true
 
 [[files]]
