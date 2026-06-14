@@ -641,11 +641,6 @@ hash = "d451fd8fe5310103844d248fe6826636bb1ac4cbcd62b2bb2f49c18e5f02489b"
 metafile = true
 
 [[files]]
-file = "mods/grue.pw.toml"
-hash = "09924f5c336800875c8d1510ebb2324d087a36c06ca3bd620a19616beac59713"
-metafile = true
-
-[[files]]
 file = "mods/gtnhlib.pw.toml"
 hash = "db916316d28c1d35a1d9d8156b7877cf2e39c733e1ae8b490c37ba095fd68ba4"
 metafile = true
