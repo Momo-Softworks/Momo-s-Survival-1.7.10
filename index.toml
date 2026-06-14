@@ -890,11 +890,6 @@ hash = "2eb80936069af018db84c80c0d65990114f28beead175ee0737fb67f86bef3e0"
 metafile = true
 
 [[files]]
-file = "mods/streams.pw.toml"
-hash = "bac002375e036a84c6dfcf35db12d1720cb4a16a2912be7d751316e4dd14597b"
-metafile = true
-
-[[files]]
 file = "mods/tainted-magic.pw.toml"
 hash = "4389f4ae56e7ae294af85bc072b13245276ba9044ccd630c19ef5cfbc2703a66"
 metafile = true
