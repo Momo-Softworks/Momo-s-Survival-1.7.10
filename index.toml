@@ -145,6 +145,10 @@ file = "config/biomesoplenty/terraingen.cfg"
 hash = "979231f58db126211f02157b3cab897affbcb09f2b7f4a8862d9deac40545ea2"
 
 [[files]]
+file = "config/darkerer.cfg"
+hash = "4db6ff6f60540db493d81121bf56870a066531867683c0dd2ee09f1259e6d7ea"
+
+[[files]]
 file = "config/endercore/endercore.cfg"
 hash = "7104efd87cdc02af8f586846b74a27b6a75103fa259e96046f79a4180ea25bbf"
 
