@@ -619,11 +619,6 @@ hash = "724751bd967d40471d72cba2e6529af82da0bf7f18f615f54ea536386be4ed88"
 metafile = true
 
 [[files]]
-file = "mods/harder-wildlife.pw.toml"
-hash = "479533eb2cbfb963f78d753d29fd5b954c81ed49c08a2acf826500b30c220eba"
-metafile = true
-
-[[files]]
 file = "mods/hardlib.pw.toml"
 hash = "5b29a496eb98f933b736e72ef2601f3e058151ab5c62a6bab130d796aef4393d"
 metafile = true
