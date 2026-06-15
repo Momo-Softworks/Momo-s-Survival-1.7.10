@@ -57,6 +57,10 @@ file = "config/SpiceOfLife.cfg"
 hash = "af2c6c2f4a472d29ae990a0aab3541b1734d6a8aa18a05f6f71ce0d3a6e07802"
 
 [[files]]
+file = "config/TaintedMagic.cfg"
+hash = "168872c106315e7c317d6d233af60b474595185470474f08ffbfd15399c2da20"
+
+[[files]]
 file = "config/Thaumcraft.cfg"
 hash = "db4b88dcef8e6cfe8d21a229913e302da6123614a738d980626579123412cbc9"
 
