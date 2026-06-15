@@ -150,7 +150,7 @@ hash = "a060052be3840f975a6d3e982e821b69325ae158bc42b68a8b329d328e935fca"
 
 [[files]]
 file = "config/entitycap.cfg"
-hash = "7b9f1dfbc8768dacb6ecc9fdf57535c130cc7eebb5465a06b6ad83a44f82d5e7"
+hash = "324a478348f5c9d4ef6d118e8a6be583e6add4c5b62761c34162ed7b8fc87bed"
 
 [[files]]
 file = "config/erebus.cfg"
@@ -234,7 +234,7 @@ hash = "374e4578d9c6d8131b2ebb7f18f4d3fed3850cd850c22136f76071f106c43b02"
 
 [[files]]
 file = "mods/EntityCap-1.0.0.jar"
-hash = "6caad53d9411c9ba4346f03aa49602bb4e21b7123254e01ecbb2128008c53fc6"
+hash = "b68171832aea5c82bb82c36369d12a67391aa1a7b56e77a30cb362938ca34faf"
 
 [[files]]
 file = "mods/ModernControlling-Forge-1.7.10-1.0.0.jar"
