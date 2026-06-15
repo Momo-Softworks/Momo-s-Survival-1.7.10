@@ -7,5 +7,8 @@ instance/
 # Local Claude Code state / skills
 .claude/
 
+# Local working notes, not pack content
+CONFIG-RECOMMENDATIONS.md
+
 # OS cruft
 .DS_Store

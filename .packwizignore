@@ -4,6 +4,9 @@
 # Local Claude Code state / skills (machine-specific, not pack content)
 .claude/
 
+# Local working notes, not pack content
+CONFIG-RECOMMENDATIONS.md
+
 # MultiMC/PolyMC instance scaffolding
 instance/
 
