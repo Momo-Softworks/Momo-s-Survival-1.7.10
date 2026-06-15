@@ -41,6 +41,10 @@ file = "config/ImmersiveEngineering.cfg"
 hash = "0e7ef39b13cdcecdf66f7d1daa57bdf23e0154bc39cc341f098ee0fc98c20d12"
 
 [[files]]
+file = "config/InfernalMobs.cfg"
+hash = "0d9bd757ace0da59d1f9a1f0275beeaae958144461edf73d3ba3b28280fd9554"
+
+[[files]]
 file = "config/NOVA.cfg"
 hash = "4420dd86862a7885e7d00dafff945ba75cd330efbbacaade4124a0079592ea58"
 
@@ -138,7 +142,7 @@ hash = "979231f58db126211f02157b3cab897affbcb09f2b7f4a8862d9deac40545ea2"
 
 [[files]]
 file = "config/darkerer.cfg"
-hash = "4db6ff6f60540db493d81121bf56870a066531867683c0dd2ee09f1259e6d7ea"
+hash = "9cc86f8cf6b74563f8107d0f7ba2b4222133a050caed76d164345e2ec7c9bfdb"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
@@ -714,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/login-shield.pw.toml"
 hash = "dd5512fdb8d7649b7abdecb49a3024cabb832f1e39ba7738a7e5b029e6abbe0a"
+metafile = true
+
+[[files]]
+file = "mods/lumy-skin-patch.pw.toml"
+hash = "ef42892bb57f0fea2ba8726d454609b8c3cbfcd47bf174a6a226d35f5b86148c"
 metafile = true
 
 [[files]]
