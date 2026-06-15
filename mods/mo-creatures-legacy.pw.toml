@@ -1,0 +1,13 @@
+name = "Mo' Creatures Legacy"
+filename = "MoCreatures-Legacy-Final-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecda0f037b1d8fee8eb3f4dbda9169a7ca65d7c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6220091
+project-id = 957564

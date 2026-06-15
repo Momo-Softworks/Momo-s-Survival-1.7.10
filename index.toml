@@ -704,6 +704,11 @@ hash = "0602a6048fe511eb07925b532b58c965ea3e45fc7ef7809efcd96622f47553c3"
 metafile = true
 
 [[files]]
+file = "mods/mo-creatures-legacy.pw.toml"
+hash = "5b7c8f3398ee92d4046eb54b20e990fe831099a2e18d284fbeffb2a639465f84"
+metafile = true
+
+[[files]]
 file = "mods/modern-keybinding.pw.toml"
 hash = "d586de77a330c7b281b61e3c3e22261cccaf80ddea015fa58754a871a6141bf3"
 metafile = true
