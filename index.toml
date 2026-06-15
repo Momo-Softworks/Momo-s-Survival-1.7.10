@@ -189,6 +189,14 @@ file = "config/railcraft/railcraft.cfg"
 hash = "35b265e09637b40eeaa3df92ce5705dcf56411c8203da6c33314754b6d88d2ae"
 
 [[files]]
+file = "config/reccomplex.cfg"
+hash = "e827f8d1aa3413fbb81d3d37a300457fd98940f792c30d718ce112bfdcaf93d4"
+
+[[files]]
+file = "config/roguelike_dungeons/roguelike.cfg"
+hash = "06ed36fe847c436d75172f46d6488c2443ceb0a50fac24e449a230b69499b48d"
+
+[[files]]
 file = "config/totemic.cfg"
 hash = "410c7fbed2649ff924c41bc6b0d96ba0243dee2655425b3cb438e48649fa2133"
 
