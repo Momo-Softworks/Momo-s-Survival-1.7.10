@@ -25,6 +25,10 @@ file = "config/Botania.cfg"
 hash = "bde0e4d64f5d220d643a331a3ed3e2c87493770b49ee661c0a817866594dee05"
 
 [[files]]
+file = "config/ClimateControl/biomesoplentyInCC.cfg"
+hash = "c456a82e89f0949d8844a2f742b3c1ba1d98ec144b8f000fc45890b55c5cd068"
+
+[[files]]
 file = "config/DivineRPG.cfg"
 hash = "a6cc4af93387cd9698a86827e1a41971ab435ae88ceeae5afd9118a4a5237a41"
 
