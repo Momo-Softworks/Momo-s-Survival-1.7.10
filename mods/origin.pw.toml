@@ -1,0 +1,13 @@
+name = "Origin"
+filename = "Origin-1.7.10-8.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f00215837210df6052d448e3f3ea39f6f83370c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2272713
+project-id = 72503

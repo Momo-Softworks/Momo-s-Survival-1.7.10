@@ -1,0 +1,13 @@
+name = "Doggy Talents Continuation"
+filename = "doggytalents-1.7.10-1.14.2.325.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb29c8f3ffc9fd7884f1e4eeae310ed156756341"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4724631
+project-id = 906748

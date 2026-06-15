@@ -489,6 +489,11 @@ hash = "c405812cbf32df6a06d9abf69b0f94bcb507f13a21a03ee0ce96cd626f9c7776"
 metafile = true
 
 [[files]]
+file = "mods/doggy-talent-continuation.pw.toml"
+hash = "883776cc70fbf0a9af01a68f8b94a55bbfe89db6aa12db9020b504d5d6fefa99"
+metafile = true
+
+[[files]]
 file = "mods/dummycore.pw.toml"
 hash = "5312b6c468b4fb99b5cbe9b51be5ec92d40b899fdbafe4b7c75e33db65217765"
 metafile = true
@@ -659,6 +664,11 @@ hash = "137356d7a93fd7738d5758cece01dde26dac0a146d7695d3becde8972cc270c1"
 metafile = true
 
 [[files]]
+file = "mods/ivtoolkit.pw.toml"
+hash = "1d8ad50e19e6b029a62379e8bb82d45d520bfdc4a01ed7280b30aa7903b3dbb6"
+metafile = true
+
+[[files]]
 file = "mods/just-a-few-fish.pw.toml"
 hash = "7e401a069a8b36705644f3b2a321df4f3a98fe511c8ac74860908f84f459d6e0"
 metafile = true
@@ -759,11 +769,6 @@ hash = "94bcabc3b553229355935bdec56e8118f634be43076a5b6522824cdce28df585"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-pets.pw.toml"
-hash = "4db2aa34d05f795e166d96a04a0f429690b8a1b4fd864b1b03606e7eafd06c11"
-metafile = true
-
-[[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "65d4d9f570ed8d39ce031595dbaf40a3a891e3b54e6aeed91952f8e0d7bd7ed6"
 metafile = true
@@ -791,6 +796,11 @@ metafile = true
 [[files]]
 file = "mods/ore-tweaker.pw.toml"
 hash = "75e13cfb2d6ad58f0785061f0bcaba7686a0d4e300f174158954b5a89298fdae"
+metafile = true
+
+[[files]]
+file = "mods/origin.pw.toml"
+hash = "5e4e2dc60606ce77268b52accc6e1678dd6f0e7ec9bd7accaf85e610f1bfff3d"
 metafile = true
 
 [[files]]
@@ -831,6 +841,11 @@ metafile = true
 [[files]]
 file = "mods/recipeconflict-fixer.pw.toml"
 hash = "d3f64b3f895ca83c881668beef4a213ff2c1e114a7de24343fd934f778169f34"
+metafile = true
+
+[[files]]
+file = "mods/recurrent-complex-unofficial.pw.toml"
+hash = "cb0b74ad558cff8eb32e1f7d9ab93a3f2000f28fccac706e0231978644be11cc"
 metafile = true
 
 [[files]]
@@ -1039,8 +1054,8 @@ hash = "62ea2b80fdff17bc5c4f150c771f946067ae5bf0399ffe10b4eed5a0cde29b91"
 metafile = true
 
 [[files]]
-file = "mods/wings-horns-hooves-the-ultimate-unicorn-mod.pw.toml"
-hash = "768d88837b9b6eac7de8614a6488aef5eb61d7972b622778b933bf8753b06a73"
+file = "mods/weeping-angels-reforged.pw.toml"
+hash = "30bf57f2f54ff442a38b95666303eb775645cb8053bd5640a7dc660d029f6d53"
 metafile = true
 
 [[files]]
