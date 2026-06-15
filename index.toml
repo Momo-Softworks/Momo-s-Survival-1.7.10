@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CONFIG-RECOMMENDATIONS.md"
+hash = "e630641ff8b497b046008515f834181c43102731048b6ec65d1651362cd9f54c"
+
+[[files]]
 file = "MODPACK.org"
 hash = "8bd26b7d6f606c2024b6223b7577d2d328efe6c92394706c6f3154aa56523356"
 
@@ -149,6 +153,10 @@ file = "config/endlessids.cfg"
 hash = "a060052be3840f975a6d3e982e821b69325ae158bc42b68a8b329d328e935fca"
 
 [[files]]
+file = "config/entitycap.cfg"
+hash = "7b9f1dfbc8768dacb6ecc9fdf57535c130cc7eebb5465a06b6ad83a44f82d5e7"
+
+[[files]]
 file = "config/erebus.cfg"
 hash = "ac1e3e8a4d7dff9036ef6fb531c002b4ae3b0ca360770b0cf13e00998dc9cd28"
 
@@ -227,6 +235,10 @@ hash = "5d3f426420d0d17abaaa8788931f0e8ebe48d9f26d369fe878c5534562ab336b"
 [[files]]
 file = "mods/ElectroblobsWizardry-1.1.5.jar"
 hash = "374e4578d9c6d8131b2ebb7f18f4d3fed3850cd850c22136f76071f106c43b02"
+
+[[files]]
+file = "mods/EntityCap-1.0.0.jar"
+hash = "6caad53d9411c9ba4346f03aa49602bb4e21b7123254e01ecbb2128008c53fc6"
 
 [[files]]
 file = "mods/ModernControlling-Forge-1.7.10-1.0.0.jar"
