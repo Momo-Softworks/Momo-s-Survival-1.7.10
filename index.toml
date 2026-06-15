@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CONFIG-RECOMMENDATIONS.md"
-hash = "e630641ff8b497b046008515f834181c43102731048b6ec65d1651362cd9f54c"
-
-[[files]]
 file = "MODPACK.org"
 hash = "8bd26b7d6f606c2024b6223b7577d2d328efe6c92394706c6f3154aa56523356"
 
