@@ -142,7 +142,7 @@ hash = "a060052be3840f975a6d3e982e821b69325ae158bc42b68a8b329d328e935fca"
 
 [[files]]
 file = "config/erebus.cfg"
-hash = "8b1fe4fdbe3a8298a3b77246cf844a9590d6786b2162a4bfa1b1465233beca9f"
+hash = "ac1e3e8a4d7dff9036ef6fb531c002b4ae3b0ca360770b0cf13e00998dc9cd28"
 
 [[files]]
 file = "config/etfuturum/enchantspotions.cfg"
@@ -223,6 +223,10 @@ hash = "a3e5d35820b8d140bc696d1039ffca63577c0502dfa7b2d16bdedb8dc27eb163"
 [[files]]
 file = "mods/TConstruct-1.14.86-GTNH.jar"
 hash = "4941f8490415380290690a6665de7959f0c787c2eb23b3da836c4b70dd11015e"
+
+[[files]]
+file = "mods/WeepingAngels-1.7.10-4.0.3.jar"
+hash = "1df3105a522e024b0beb5aff53f70f33af0156ee1869804d554d22dc9228306b"
 
 [[files]]
 file = "mods/a-block-of-charcoal.pw.toml"
@@ -1051,11 +1055,6 @@ metafile = true
 [[files]]
 file = "mods/wawla.pw.toml"
 hash = "62ea2b80fdff17bc5c4f150c771f946067ae5bf0399ffe10b4eed5a0cde29b91"
-metafile = true
-
-[[files]]
-file = "mods/weeping-angels-reforged.pw.toml"
-hash = "30bf57f2f54ff442a38b95666303eb775645cb8053bd5640a7dc660d029f6d53"
 metafile = true
 
 [[files]]
