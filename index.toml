@@ -29,6 +29,10 @@ file = "config/ClimateControl/biomesoplentyInCC.cfg"
 hash = "c456a82e89f0949d8844a2f742b3c1ba1d98ec144b8f000fc45890b55c5cd068"
 
 [[files]]
+file = "config/CustomOreGen/CustomOreGen_Config.xml"
+hash = "3ba712a3d89c79609b166dde6941f4e3a87d3ce69a7596aa9112af6e1967a399"
+
+[[files]]
 file = "config/DivineRPG.cfg"
 hash = "a6cc4af93387cd9698a86827e1a41971ab435ae88ceeae5afd9118a4a5237a41"
 
@@ -70,7 +74,7 @@ hash = "168872c106315e7c317d6d233af60b474595185470474f08ffbfd15399c2da20"
 
 [[files]]
 file = "config/Thaumcraft.cfg"
-hash = "db4b88dcef8e6cfe8d21a229913e302da6123614a738d980626579123412cbc9"
+hash = "e5d8e6869107b09c5abdaa2cd1a4a74b4ca4a4055c0f27f77185218d398dde48"
 
 [[files]]
 file = "config/Thaumic Bases.cfg"
