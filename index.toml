@@ -30,7 +30,7 @@ hash = "c456a82e89f0949d8844a2f742b3c1ba1d98ec144b8f000fc45890b55c5cd068"
 
 [[files]]
 file = "config/CustomOreGen/CustomOreGen_Config.xml"
-hash = "3ba712a3d89c79609b166dde6941f4e3a87d3ce69a7596aa9112af6e1967a399"
+hash = "706b14ca38c7354fe19d35ed5419784985504e3760a790b2b0f2a183c0ee5bd0"
 
 [[files]]
 file = "config/DivineRPG.cfg"
