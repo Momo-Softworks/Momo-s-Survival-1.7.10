@@ -58,7 +58,7 @@ hash = "044c6bf6a1775b249fcb08b53e88ddbff56a45571cb456d17e552c5b12c6ff0c"
 
 [[files]]
 file = "config/SpecialAI.cfg"
-hash = "118d32df8f68c9c815ee28d63125295dd26d4e69c7d941f1b984a6032ffcf714"
+hash = "23d2b143ba6463f66eeb5117b0bc0e7a84aaa42bccc34ea10473723e18b31893"
 
 [[files]]
 file = "config/SpiceOfLife.cfg"
@@ -521,8 +521,8 @@ hash = "c405812cbf32df6a06d9abf69b0f94bcb507f13a21a03ee0ce96cd626f9c7776"
 metafile = true
 
 [[files]]
-file = "mods/doggy-talent-continuation.pw.toml"
-hash = "883776cc70fbf0a9af01a68f8b94a55bbfe89db6aa12db9020b504d5d6fefa99"
+file = "mods/doggy-talents.pw.toml"
+hash = "ca7bb2a55d3cf8549e2b240ec2b7a9f70fcde7acb8d1a5ca71d5cb8913a950b4"
 metafile = true
 
 [[files]]
