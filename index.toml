@@ -58,7 +58,7 @@ hash = "044c6bf6a1775b249fcb08b53e88ddbff56a45571cb456d17e552c5b12c6ff0c"
 
 [[files]]
 file = "config/SpecialAI.cfg"
-hash = "44e7c59efed47425418208c0e39a1b3ad54d95b5d0df27936dec8e05aa90fb8f"
+hash = "118d32df8f68c9c815ee28d63125295dd26d4e69c7d941f1b984a6032ffcf714"
 
 [[files]]
 file = "config/SpiceOfLife.cfg"
