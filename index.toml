@@ -29,10 +29,6 @@ file = "config/ClimateControl/biomesoplentyInCC.cfg"
 hash = "c456a82e89f0949d8844a2f742b3c1ba1d98ec144b8f000fc45890b55c5cd068"
 
 [[files]]
-file = "config/CustomOreGen/CustomOreGen_Config.xml"
-hash = "706b14ca38c7354fe19d35ed5419784985504e3760a790b2b0f2a183c0ee5bd0"
-
-[[files]]
 file = "config/DivineRPG.cfg"
 hash = "a6cc4af93387cd9698a86827e1a41971ab435ae88ceeae5afd9118a4a5237a41"
 
@@ -170,7 +166,7 @@ hash = "10e4c4b5da6bacef0840ad241b3c1b88cad230a9f55ce1399889236ec99a5b72"
 
 [[files]]
 file = "config/etfuturum/world.cfg"
-hash = "835021d5b162c57230a8fd28ec392d6e32de9c9cda5ce1c35e109ddcb30f15db"
+hash = "5727a43c6b0c1c069cff9db5b5771dbb5d44331080ba3c95fd5df69d896057a0"
 
 [[files]]
 file = "config/foamfix.cfg"
