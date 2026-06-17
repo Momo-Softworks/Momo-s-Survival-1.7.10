@@ -90,7 +90,7 @@ hash = "ebc909a519b5ce738712ccc150fbc7b8a058627b341384a30f6e92d8e05ae89f"
 
 [[files]]
 file = "config/TooMuchTime.cfg"
-hash = "c63eed0c4c1b08d8eb32cff78acf69b22422ef8b2fe52659e5afcdf19167573e"
+hash = "f0ac4386db80f4675ae1ad900c0d4204e365366a5eed477bececa18cf48d98b4"
 
 [[files]]
 file = "config/Treecapitator.cfg"
