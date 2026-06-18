@@ -241,10 +241,6 @@ file = "mods/EntityCap-1.0.0.jar"
 hash = "b68171832aea5c82bb82c36369d12a67391aa1a7b56e77a30cb362938ca34faf"
 
 [[files]]
-file = "mods/ModernControlling-Forge-1.7.10-1.0.0.jar"
-hash = "317ff06e350589f79a09226a1399b15a25979908cd373efbbed7c5e7b4c96f22"
-
-[[files]]
 file = "mods/SkidGen-1.0.0.jar"
 hash = "a3e5d35820b8d140bc696d1039ffca63577c0502dfa7b2d16bdedb8dc27eb163"
 
@@ -473,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
 hash = "0d8172025177bd2db8f9df06e038a7bf7ac0e8e483a8a2220dde7685f2d7816e"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "f348bb6c9f9a760117d8693bf76ee6b1574c26e5d3ad0d30472035c860806da6"
 metafile = true
 
 [[files]]
