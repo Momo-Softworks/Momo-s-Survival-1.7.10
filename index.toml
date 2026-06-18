@@ -233,6 +233,10 @@ file = "mods/CraftTweaker-3.4.7.jar"
 hash = "e322d6e1a017fd16fc3391ae78c801ed9d1cef38b80fd66c233a37d4eb7cbdc8"
 
 [[files]]
+file = "mods/DoggyTalents-1.7.10-1.14.2.325-guiserverfix.jar"
+hash = "a43b9bc5b465778a02777333a42177345df510cef1c24ed3c56fa70b0706150a"
+
+[[files]]
 file = "mods/ElectroblobsIDsFix-1.7.10-1.0.jar"
 hash = "5d3f426420d0d17abaaa8788931f0e8ebe48d9f26d369fe878c5534562ab336b"
 
@@ -533,11 +537,6 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "c405812cbf32df6a06d9abf69b0f94bcb507f13a21a03ee0ce96cd626f9c7776"
-metafile = true
-
-[[files]]
-file = "mods/doggy-talents.pw.toml"
-hash = "ca7bb2a55d3cf8549e2b240ec2b7a9f70fcde7acb8d1a5ca71d5cb8913a950b4"
 metafile = true
 
 [[files]]
