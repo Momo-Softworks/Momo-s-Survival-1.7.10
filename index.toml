@@ -416,6 +416,11 @@ hash = "ab7684cbe71edd1b7e483316974e23535d14c2f9a01c0c7a1238d3ac45cfafcd"
 metafile = true
 
 [[files]]
+file = "mods/bogosorter.pw.toml"
+hash = "a8361733cb0dae177d96e37427d558f5cbecbffe8028a101e2c370f2d610628f"
+metafile = true
+
+[[files]]
 file = "mods/bow-infinity-fix.pw.toml"
 hash = "5f36ccb61ce6bc05d3aadde5a136556dbe381e0e1a75fbefe085ae5c65c33e7a"
 metafile = true
@@ -683,11 +688,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-integration.pw.toml"
 hash = "cf0ecd1a50c9df4a38cd41aa0129c73bb9eaa37f2bc62c70c7bada01d1f8516c"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tweaks.pw.toml"
-hash = "61744ee5386e2a558cc599cb04a1f9f5938c4aba72260614c67ff746c753668b"
 metafile = true
 
 [[files]]
