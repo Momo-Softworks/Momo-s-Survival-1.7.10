@@ -113,10 +113,6 @@ file = "config/backhand.cfg"
 hash = "dbbfab9bd7ed7221032b947d76e4b53898f73c19997ab58261c7fa80d149ab04"
 
 [[files]]
-file = "config/betterplacement.cfg"
-hash = "2d013f2fe297eaea77a38200160325e05e198d819bc962d038c8184c96ceb779"
-
-[[files]]
 file = "config/biomesoplenty/biomegen.cfg"
 hash = "a91ee4f2d5b88854d1308450eff84b030fb2515db58dfd63edbaf318cc57d3b2"
 
@@ -377,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/better-burning.pw.toml"
 hash = "77d36653254c792894f61916bd290c3f0108f840c5b5af2eb85ace3bcca9ca6e"
-metafile = true
-
-[[files]]
-file = "mods/better-placement.pw.toml"
-hash = "6c5dbf5c269bd402ed3ba9df3dec862c7a806acfb1ff6f96d07e36e8f28773c5"
 metafile = true
 
 [[files]]
