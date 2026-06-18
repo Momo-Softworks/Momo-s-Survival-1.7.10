@@ -109,6 +109,14 @@ file = "config/atum.cfg"
 hash = "f935d32c511a7842b3a241c9a717e77564e427dcf3223ee03aa5df44dbbb7e27"
 
 [[files]]
+file = "config/backhand.cfg"
+hash = "dbbfab9bd7ed7221032b947d76e4b53898f73c19997ab58261c7fa80d149ab04"
+
+[[files]]
+file = "config/betterplacement.cfg"
+hash = "2d013f2fe297eaea77a38200160325e05e198d819bc962d038c8184c96ceb779"
+
+[[files]]
 file = "config/biomesoplenty/biomegen.cfg"
 hash = "a91ee4f2d5b88854d1308450eff84b030fb2515db58dfd63edbaf318cc57d3b2"
 
