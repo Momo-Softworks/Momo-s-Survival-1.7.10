@@ -267,6 +267,11 @@ hash = "ca00f62c191591d4c171815064cdbf73a99f9e5a064d1b2a4fc72472b771ed15"
 metafile = true
 
 [[files]]
+file = "mods/adventure-backpack.pw.toml"
+hash = "10c8d064696a30271f4e841bb3f884b5219b5d32b6907c7b7a21b68a88bf63b6"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "baf37a537a066c700880a5c8bc5323489f7b57dc6f2ca8d4cd2d9c77503ce58c"
 metafile = true
@@ -433,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "3966280f0a890afe2f981d8892b5932139211e0670fd97c3230f8e8c02656195"
+metafile = true
+
+[[files]]
+file = "mods/carpenters-blocks.pw.toml"
+hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
 metafile = true
 
 [[files]]
