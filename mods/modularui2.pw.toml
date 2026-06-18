@@ -1,0 +1,8 @@
+name = "modularui2"
+filename = "modularui2-2.3.74-1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.74-1.7.10/modularui2-2.3.74-1.7.10.jar"
+hash-format = "sha256"
+hash = "ac3abce9fa86d2f8edb53b8ea84fd2fc922d08138770c6f2d28d7084fa0bd683"
