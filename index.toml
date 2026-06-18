@@ -757,11 +757,6 @@ hash = "5b7c8f3398ee92d4046eb54b20e990fe831099a2e18d284fbeffb2a639465f84"
 metafile = true
 
 [[files]]
-file = "mods/modern-keybinding.pw.toml"
-hash = "d586de77a330c7b281b61e3c3e22261cccaf80ddea015fa58754a871a6141bf3"
-metafile = true
-
-[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
