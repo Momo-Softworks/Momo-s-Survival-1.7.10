@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/antiqueatlas-1.7.10-4.4.0.jar"
-hash = "05600fd02cd61d884983d25deb10977cc9e20f3e9dd74d308de70b517db180b8"
+hash = "d71a1873e9a6e0ce654313ff649017a8e558085b10529f7b851c50a39124b324"
 
 [[files]]
 file = "mods/applecore-unofficial.pw.toml"
