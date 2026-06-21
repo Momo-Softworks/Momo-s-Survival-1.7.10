@@ -1,0 +1,13 @@
+name = "Wolf Armor and Storage Legacy"
+filename = "wolfarmor-1.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d10c52b04972f7ca1753068f1cddd05f471438c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2357312
+project-id = 253689

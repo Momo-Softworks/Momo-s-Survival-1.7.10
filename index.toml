@@ -233,10 +233,6 @@ file = "mods/CraftTweaker-3.4.7.jar"
 hash = "e322d6e1a017fd16fc3391ae78c801ed9d1cef38b80fd66c233a37d4eb7cbdc8"
 
 [[files]]
-file = "mods/DoggyTalents-1.7.10-1.14.2.325-guiserverfix.jar"
-hash = "bb94ff9091ef6a8696a7b6c083577d5dd30f28ea13dea4cb827ac363fca4447b"
-
-[[files]]
 file = "mods/ElectroblobsIDsFix-1.7.10-1.0.jar"
 hash = "5d3f426420d0d17abaaa8788931f0e8ebe48d9f26d369fe878c5534562ab336b"
 
@@ -316,9 +312,8 @@ hash = "a90ccd7f2f154c242534fccc24776cc06c6c68f58431142756af420a462f9f3a"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas.pw.toml"
-hash = "8030b319354ce6699de8842b71d7c2b508e05104117a842c4ddedda952f1800e"
-metafile = true
+file = "mods/antiqueatlas-1.7.10-4.4.0.jar"
+hash = "05600fd02cd61d884983d25deb10977cc9e20f3e9dd74d308de70b517db180b8"
 
 [[files]]
 file = "mods/applecore-unofficial.pw.toml"
@@ -1102,6 +1097,11 @@ metafile = true
 [[files]]
 file = "mods/witchery.pw.toml"
 hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
+metafile = true
+
+[[files]]
+file = "mods/wolf-armor-and-storage.pw.toml"
+hash = "9911586f1af958ae4a904d1afce5241429fca31b54ea4537c6116b9dd131c850"
 metafile = true
 
 [[files]]
