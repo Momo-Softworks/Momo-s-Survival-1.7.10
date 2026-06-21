@@ -158,7 +158,7 @@ hash = "a060052be3840f975a6d3e982e821b69325ae158bc42b68a8b329d328e935fca"
 
 [[files]]
 file = "config/entitycap.cfg"
-hash = "623b90c7402b2b38bebef4143b164db555b7fbc782959f083ec5b5aa4a8ea331"
+hash = "268abd1a40a04dfc43e183e74826ffe4723356f72d42cb0e6fcb469e4eb2c131"
 
 [[files]]
 file = "config/erebus.cfg"
