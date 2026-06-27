@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "faee284965703b6bd94525fc9aa41c73916831b285fe1d2f48a64765d70b2789"
+hash = "86737e7794ba2562477373326d03b6a14fa8bc8dd8832413b21a617c88c9cab4"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "0d8172025177bd2db8f9df06e038a7bf7ac0e8e483a8a2220dde7685f2d7816e"
+hash = "d9d106128976c5f9972ae5354ede9a3e94368d0c488be6ea6a4ca2c4d4674daa"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "8f715b6efc847c1600a72bb4f951d0520809398861b016f90a38f5023bb2a0a6"
+hash = "13aba08c06c8669c689950ddf7eeba6576b9f983cae0bd4c86f7d780a42ef61f"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "db916316d28c1d35a1d9d8156b7877cf2e39c733e1ae8b490c37ba095fd68ba4"
+hash = "48b7bae38186715b4dc9af1ea2bcc64b06d81f30fef0bf8e36e7b7c5e8f038a6"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "abde54d330a661851a8d963ddad148b17aef5252cddfbf04cb61b9bca2589967"
+hash = "249ad29d79629fca00c498e712dc1a1ed4f0a0672d8ba44a78a0a4ad67deeb05"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "65d4d9f570ed8d39ce031595dbaf40a3a891e3b54e6aeed91952f8e0d7bd7ed6"
+hash = "bd54fb7af5e8612567b4e827893967ebb5bf388579811095ba8a44e3c69c33b9"
 metafile = true
 
 [[files]]
@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers-unofficial.pw.toml"
-hash = "2eb80936069af018db84c80c0d65990114f28beead175ee0737fb67f86bef3e0"
+hash = "53458ec92a6ae78b0e635cc935eed32718ccec551cf391d350110c344a08a277"
 metafile = true
 
 [[files]]
